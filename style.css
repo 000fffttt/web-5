@@ -1,0 +1,95 @@
+.container {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+.header {
+    background: black;
+    padding: 32px 0
+}
+
+.flex {
+    display: flex;
+    font-size: 30px;
+    font-weight: 700;
+    justify-content: space-between;
+}
+
+.name {
+    color: wheat;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.flex2 {
+    display: flex;
+    gap: 20px;
+}
+
+.child {
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.green {
+    background: yellowgreen;
+    padding: 112px 0;
+}
+
+.flexgreen {
+    display: flex;
+    gap: 222px;
+    align-items: center;
+}
+
+.child-flex {
+    font-size: 70px;
+    color: black;
+    font-size: 700;
+}
+
+.child-text {
+    font-size: 50px;
+    color: black;
+    font-weight: 700;
+}
+
+.yellow {
+    background: yellow;
+    padding: 50px 0;
+}
+
+.flexyellow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.child-yellow {
+    font-size: 50px;
+    color: black;
+    font-weight: 700;
+}
+
+.web {
+    font-size: 100px;
+    color: black;
+    font-weight: 700;
+}
+
+.footer {
+    background: black;
+    padding: 30px 0 70px;
+}
+
+.flexfooter {
+    display: flex;
+    justify-content: space-between;
+}
+
+.end {
+    font-size: 30px;
+    color: white;
+    font-weight: 700;
+}
